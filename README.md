@@ -5,10 +5,10 @@
 
 ## Technologies Used
 * LLM - model structure
-* HuggingFace model structure
+* HuggingFace - model building
 * Lang Chain - Frame work
 * PineCone - DataBase
-* Pyhton - Language
+* Python - Language
 
 ## Features
 * Model will take prompt from users and reply with answers
